@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0baAqbkZqU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aylin\\Documents\\SEXTO SEMESTRE\\DessApp\\lab05\\readers\\readers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aylin\\.nuget\\packages\\confluent.kafka\\2.5.3\\confluent.kafka.2.5.3.nupkg.sha512",
+    "C:\\Users\\Aylin\\.nuget\\packages\\librdkafka.redist\\2.5.3\\librdkafka.redist.2.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
